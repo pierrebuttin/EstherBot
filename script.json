@@ -1,4 +1,5 @@
 {
+    "^[0-9]$": "bonjour",
     "HELLO": "Hello petit chat! Ça va?",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
@@ -6,6 +7,7 @@
     "WESH": "Wesh alors",
     "FLACHERES": "J'adore Flachères, un petit village magnifique",
     "TU CONNAIS FLACHERES ?": "Grave j'ai habité là bas",
+    "FLACHERES ?": "Grave j'ai habité là bas",
     "ON EST PAS BIEN LA ?": "Mais oui, au calme tranquille, pas un casse couille, et on chasse les grives!",
     "TU AIMES JUL?": "Oui même s'il est un peu teubé",
     "MIAOU": "Miaou miaou je suis un chat",
